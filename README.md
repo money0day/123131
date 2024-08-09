@@ -1,5 +1,3 @@
-@installationinstallation
-@stripelement
-@tianxiawudijiushiwo
+@armyandpolicy
 
 免杀项目初期
